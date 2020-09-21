@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Main2Activity">
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:background="#A6C988"
+        android:text="Entry Symptoms"
+        android:textSize="25dp"
+        android:textStyle="bold"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:background="#D5AF8B"
+        android:text="Search Doctor"
+        android:textSize="25dp"
+        android:textStyle="bold"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:background="#B492C4"
+        android:text="Search Disease"
+        android:textSize="25dp"
+        android:textStyle="bold"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:background="#A2B0D1"
+        android:text="Search blood group"
+        android:textSize="25dp"
+        android:textStyle="bold"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:background="#98C7C3"
+        android:text="Emergincy contacts"
+        android:textSize="25dp"
+        android:textStyle="bold"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:background="#CE8FB6"
+        android:text="Local doctors list"
+        android:textSize="25dp"
+        android:textStyle="bold"/>
+
+</LinearLayout>
